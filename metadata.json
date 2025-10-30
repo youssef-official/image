@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Image Generator",
+  "description": "An elegant, dark-themed web application that generates black and white images using the Gemini 'Nano Banana' (gemini-2.5-flash-image) model.",
+  "requestFramePermissions": []
+}
